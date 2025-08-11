@@ -11,7 +11,7 @@ It focuses on replacing a slow, manual Microsoft Teams + Excel process with a fu
 > I can present during interviews or portfolio reviews upon request.
 
 ## Problem
-The previous bio collection process involved manual input, back-and-forth follow-ups, and inconsistent formatting. This led to delays, data gaps, and increased admin workload.
+The previous Employee BIography (for the InfusionPoints / About Us page) collection process involved manual input, back-and-forth follow-ups, and inconsistent formatting. This led to delays, data gaps, and increased admin workload.
 
 ## Solution
 - Digital bio submission forms via GCP prototype and AWS-native ambitions (Command Center Sandbox).
@@ -30,11 +30,11 @@ The previous bio collection process involved manual input, back-and-forth follow
 - **AWS:** DynamoDB, Lambda, SES, S3, Cognito
 - **GCP:** Forms, Cloud Functions
 - **Drupal:** Test and dummy site integration
-- **Microsoft 365:** Legacy MVP version
+- **Microsoft 365:** Legacy MVP version using PowerAutomate, Forms, etc.
 
 ## What's in this repo
-- `docs/project_overview.md` — Detailed case study of the project phases, pivots, and technical architecture.
-- `docs/lessons_learned.md` — Key takeaways from the project.
+- `ProjectOverview.md` — Detailed case study of the project phases, pivots, and technical architecture.
+- `LessonsLearned.md` — Key takeaways from the project.
 - `SECURITY.md` — Sanitization and privacy statement.
 
 > No client data, production code, or sensitive credentials are included in this repository.
