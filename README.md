@@ -5,7 +5,10 @@
 This repository is a **sanitized, portfolio-style** overview of BioBot, a project developed during the InfusionPoints Summer 2025 internship program.  
 It focuses on replacing a slow, manual Microsoft Teams + Excel process with a fully digital workflow leveraging GCP and AWS services.
 
-**Note:** The full project PowerPoint presentation is **private** and available upon request for interview or portfolio review.
+> **Presentation Access:**  
+> The full BioBot project presentation (PowerPoint) contains additional diagrams, architecture details, and implementation notes.  
+> It is stored securely and kept private due to file size and confidentiality considerations.  
+> I can present during interviews or portfolio reviews upon request.
 
 ## Problem
 The previous bio collection process involved manual input, back-and-forth follow-ups, and inconsistent formatting. This led to delays, data gaps, and increased admin workload.
